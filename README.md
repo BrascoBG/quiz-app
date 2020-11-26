@@ -4,4 +4,4 @@
 
 Single page application which is fetching data (the questions) from API.
 
-![screenshots]()
+![screenshots](https://github.com/BrascoBG/quiz-app/blob/master/src/images/screenshot.jpg?raw=true)
